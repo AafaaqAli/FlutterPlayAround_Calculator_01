@@ -1,6 +1,6 @@
-# calculatorinflutter
+# Calculator In flutter
 
-A new Flutter application.
+A new Flutter application, that focues marely on a code that is easy to understand and ready for observation and modifications for a fluter beginner
 
 ## Getting Started
 
